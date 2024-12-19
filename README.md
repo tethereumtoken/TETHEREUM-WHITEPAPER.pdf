@@ -1,2 +1,2 @@
 # TETHEREUM-WHITEPAPER.pdf
-TETHEREUM-WHITEPAPER.pdf
+(https://whitepaper.tethereum.net/)
